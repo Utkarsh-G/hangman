@@ -1,0 +1,9 @@
+{
+  "name": "hangmanApp",
+  "version": "0.0.1",
+  "description": "guessing game",
+  "main": "index.js",
+  "repository": "https://github.com/Utkarsh-G/hangman",
+  "author": "Utkarsh-G",
+  "license": "MIT"
+}
