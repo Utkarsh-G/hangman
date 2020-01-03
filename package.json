@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/Utkarsh-G/hangman",
   "author": "Utkarsh-G",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.7.4"
+  },
+  "scripts": {
+    "tsc":"tsc"
+  }
 }
